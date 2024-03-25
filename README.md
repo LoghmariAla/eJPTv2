@@ -3,9 +3,10 @@
 
  Here are some of the cheatsheets created by myself that will help you prepare to your eJPTv2.
  You can find all things you need & even don't need for the exam.
+ 
+- ##### Linux Pentesting :  [Pentesting Linux - Cheatsheet.md](https://github.com/LoghmariAla/eJPTv2/blob/f888e6602fceb6eed795b36dd69c9e1eb5cdd32f/Pentesting%20Linux%20-%20Cheatsheet.md)
+- ##### Windows Pentesting : [Pentesting Windows - Cheatsheet.md](https://github.com/LoghmariAla/eJPTv2/blob/f888e6602fceb6eed795b36dd69c9e1eb5cdd32f/Pentesting%20Windows%20-%20Cheatsheet.md)
 
-- ##### Linux Pentesting : [[Pentesting Linux - Cheatsheet]]
-- ##### Windows Pentesting : [[Pentesting Windows - Cheatsheet]]
 
 You can find me on LinkedIn here : 
 
