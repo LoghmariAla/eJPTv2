@@ -1,5 +1,7 @@
+### ⚠️ *NOTICE: This repository is no longer maintained or updated.*
 
 ## eJPTv2 Windows & Linux Cheatsheets
+
 
  Here are some of the cheat sheets created by myself that will help you prepare for your eJPTv2.
  You can find all the things you need & even more for the exam.
